@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>newspaper.png</file>
+        <file>ultimate_pic3.png</file>
+        <file>ultimate_pic3.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ultimate_pic3.jpg</file>
+        <file>189632.jpg</file>
+        <file>renew.png</file>
+        <file>newpic.jpg</file>
+        <file>ultimate_submit.png</file>
+        <file>admin_panel.png</file>
+    </qresource>
+</RCC>
